@@ -13,36 +13,14 @@ My primary research interests lie at the intersection of:
 
 - **Computer Vision**
 - **Explainable AI**
+- **Generative AI**
 - **Deep Learning**
 - **Machine Learning**
-- **Generative AI**
 - **Large Language Models (LLM)**
 - **Data Science**
 
 I am passionate about exploring how these technologies can be harnessed to solve complex real-world problems and push the boundaries of current AI capabilities.
 
-## Projects and Contributions
-
-Here are some of the projects I have been working on:
-
-### [Project 1 Title]
-- **Description:** Briefly describe the project, its objectives, and your contributions.
-- **Technologies Used:** List the main technologies, libraries, and tools used.
-
-### [Project 2 Title]
-- **Description:** Briefly describe the project, its objectives, and your contributions.
-- **Technologies Used:** List the main technologies, libraries, and tools used.
-
-### [Project 3 Title]
-- **Description:** Briefly describe the project, its objectives, and your contributions.
-- **Technologies Used:** List the main technologies, libraries, and tools used.
-
-## Publications
-
-- **[Publication Title](link)**
-  - **Authors:** Your Name, Co-author Names
-  - **Conference/Journal:** Name of the conference/journal
-  - **Abstract:** Provide a brief abstract or summary of the publication.
 
 ## Get in Touch
 
