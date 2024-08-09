@@ -1,4 +1,4 @@
-# Hi there! I'm [Sajjad] 👋
+# Hi there! I'm Sajjad 👋
 
 ## About Me
 
@@ -12,9 +12,9 @@ I am currently a BSc student in the Electrical Engineering Department at Sharif 
 My primary research interests lie at the intersection of:
 
 - **Computer Vision**
+- **Explainable AI**
 - **Deep Learning**
 - **Machine Learning**
-- **Explainable AI**
 - **Generative AI**
 - **Large Language Models (LLM)**
 - **Data Science**
@@ -48,17 +48,18 @@ Here are some of the projects I have been working on:
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/your-profile)
+- **Email:** [your.email@example.com](mailto:sajjadhashembeiki@gmail.com)
+- **Google Scholar:** [scholar](https://scholar.google.com/citations?user=fvX499wAAAAJ&hl=en&oi=ao)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sajjad-hashembeiki-212086321/)
+
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajjadHm&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadHm&layout=compact&theme=radical)
 
 ---
 
