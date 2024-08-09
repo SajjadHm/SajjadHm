@@ -26,9 +26,9 @@ I am passionate about exploring how these technologies can be harnessed to solve
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
 
-- **Email:** [your.email@example.com](mailto:sajjadhashembeiki@gmail.com)
-- **Google Scholar:** [scholar](https://scholar.google.com/citations?user=fvX499wAAAAJ&hl=en&oi=ao)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sajjad-hashembeiki-212086321/)
+- **Email:** [Gmail](mailto:sajjadhashembeiki@gmail.com)
+- **Google Scholar:** [Scholar](https://scholar.google.com/citations?user=fvX499wAAAAJ&hl=en&oi=ao)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sajjad-hashembeiki-212086321/)
 
 
 ## GitHub Stats
