@@ -27,7 +27,6 @@ Feel free to reach out to me if you have any questions, collaboration ideas, or 
 
 - **Email:** [Gmail](mailto:sajjadhashembeiki@gmail.com)
 - **Google Scholar:** [Scholar](https://scholar.google.com/citations?user=fvX499wAAAAJ&hl=en&oi=ao)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sajjad-hashembeiki-212086321/)
 
 
 ## GitHub Stats
