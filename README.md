@@ -11,7 +11,7 @@ I am currently a BSc student in the Electrical Engineering Department at Sharif 
 
 My primary research interests lie at the intersection of:
 
-- **Computer Vision**
+
 - **Deep Learning**
 - **Explainable AI**
 - **Generative AI**
